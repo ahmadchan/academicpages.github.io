@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-  You can also find my articles on <a href="https://scholar.google.com/citations?hl=en&user=JhWJ5PEAAAAJ">my Google Scholar profile</a>.
+  You can also find my articles on <a href="https://scholar.google.com/citations?hl=en&user=JhWJ5PEAAAAJ"><b><u>my Google Scholar profile</u><b></a>.
 
 
 **2018**
@@ -29,7 +29,6 @@ Farhan Khan, M. D., Fizah Sajjad Chaudhary, Muhammad Nadeem Yousaf and **Syed Ah
 
 **Bukhari, Syed Ahmad Chan**, Martin J. O'Connor, John Graybeal, Mark A. Musen, Kei-Hoi Cheung, and Steven H. Kleinstein. "Leveraging the CEDAR Workbench for Ontology-linked Submission of Adaptive Immune Receptor Repertoire Data to the Sequence Read Archive (SRA)." <a href="https://www.researchgate.net/profile/Syed_Ahmad_Chan_Bukhari/publication/310613384_Leveraging_the_CEDAR_Workbench_for_Ontology-linked_Submission_of_Adaptive_Immune_Receptor_Repertoire_Data_to_the_Sequence_Read_Archive_SRA/links/5835b0ab08ae138f1c118065.pdf"><u>Poster</u></a>
 
-
 Mark A. Musen, **Syed Ahmad Chan Bukhari**, John Campbell, Kei-Hoi Cheung, Michel Dumontier, Kim A. Durante, Attila L. Egyedi, Olivier Gevaert, Alejandra Gonzalez-Beltran, John Graybeal, Purvesh Khatri, Steven H. Kleinstein, Martin J. O’Connor, Maryam Panahiazar, Philippe Rocca-Serra, Marcos Martínez-Romero, Susanna-Assunta Sansone, Ravi D. Shankar, Debra Willrett (2016). CEDAR: Easing Authoring of Metadata to Make Biomedical Data Sets More Findable and Reusable. Poster presented at the BD2K All-Hands Meeting. November 29 - December 1, 2016. North Beteshda, Maryland, USA. <a href="https://figshare.com/articles/CEDAR_Overview_BD2K_2016_pdf/4240241/14"><u>Abstract and Poster</u></a>
 
 **Bukhari, Syed Ahmad Chan**, and Kei-Hoi Cheung. "Towards Ontological Mappingof Immunological Data Standards." <a href="https://www.researchgate.net/profile/Syed_Ahmad_Chan_Bukhari/publication/303471125_Towards_Ontological_Mapping_of_Immunological_Data_Standards/links/5744659208ae9f741b3e2815.pdf"><u>Paper</u></a>
@@ -44,7 +43,41 @@ Musen, Mark A., Carol A. Bean, Kei-Hoi Cheung, Michel Dumontier, Kim A. Durante,
 
 **2014**
 
+**Bukhari, Syed Ahmad Chan**, Michael Krauthammer, and Christopher JO Baker. "SEBI: An Architecture for Biomedical Image Discovery, Interoperability and Reusability Based on Semantic Enrichment." In SWAT4LS. 2014. <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.662.4993&rep=rep1&type=pdf"><u>Paper</u></a>
+
+Mi, Zhen-Shu, **Ahmad C. Bukhari**, and Yong-Gi Kim. "An obstacle recognizing mechanism for autonomous underwater vehicles powered by fuzzy domain ontology and support vector machine." Mathematical Problems in Engineering 2014 (2014). <a href="https://www.hindawi.com/journals/mpe/2014/676729/abs/"><u>Paper</u></a>
+
+**Bukhari SAC**, Nagy ML, Ciccarese P, Klein A, Krauthammer M, and Baker C. An Interoperable Framework for Biomedical Image Retrieval and Knowledge Discovery. Poster (**Best Poster Award**) at Conference on Semantics in Healthcare and Life Sciences (CSHALS) 2014, Boston, MA
+
+**Bukhari SAC**, Nagy ML, Krauthammer M, Ciccarese P, Klein A and Baker C. Next-generation semantic search platform for biomedical images. Abstract at 5th Atlantic Workshop on Semantics and Services (AWoSS 2014), Saint John, NB
+
 **2013**
 
+**Bukhari, Ahmad C.**, Artjom Klein, and Christopher JO Baker. "Towards interoperable bioNLP semantic web services using the SADI framework." In International Conference on Data Integration in the Life Sciences, pp. 69-80. Springer, Berlin, Heidelberg, 2013. <a href="https://www.researchgate.net/profile/Syed_Ahmad_Chan_Bukhari/publication/249011144_Towards_Interoperable_BioNLP_Semantic_Web_Services_Using_the_SADI_Framework/links/00b7d52a21807607f3000000.pdf"><u>Paper</u></a>
+
+**Bukhari, Ahmad C.**, Inara Tusseyeva, and Yong-Gi Kim. "An intelligent real-time multi-vessel collision risk assessment system from VTS view point based on fuzzy inference system." Expert systems with applications 40, no. 4 (2013): 1220-1230. <a href="https://www.sciencedirect.com/science/article/pii/S0957417412009773"><u>Paper</u></a>
+
+**Bukhari, Ahmad C.**, and Christopher JO Baker. "The Canadian health census as Linked Open Data: towards policy making in public health." In Data integration in the life sciences. 2013. <a href="https://www2.unb.ca/csas/data/ws/dils2013/papers/DILS-SYS-EC-paper3.pdf"><u>Paper</u></a>
+
+**Bukhari, Ahmad C.**, Mehtab Afzal, and Yong-Gi Kim. "Personalized Information Seeking Powered by Mobile Ontology for Sightless Residents of under Developing States." International Journal of Computer and Communication Engineering 2, no. 2 (2013): 120. <a href="http://www.ijcce.org/papers/152-B10039.pdf"><u>Paper</u></a>
+
 **2012**
+
+**Bukhari, Ahmad C.**, and Yong-Gi Kim. "Integration of a secure type-2 fuzzy ontology with a multi-agent platform: A proposal to automate the personalized flight ticket booking domain." Information Sciences 198 (2012): 24-47. <a href="https://drive.google.com/file/d/1I2xqRC4B-YCCXcL6NE9mWSiKvzg10fGC/view?usp=sharing"><u>Paper</u></a>
+
+**Bukhari, Ahmad C.**, and Yong-Gi Kim. "A research on an intelligent multipurpose fuzzy semantic enhanced 3D virtual reality simulator for complex maritime missions." Applied intelligence 38, no. 2 (2013): 193-209. <a href="https://drive.google.com/open?id=17L4QWo4CpukbVTl9ctaLQgpDukSQc4vg"><u>Paper</u></a>
+
+**Bukhari, Ahmad C.**, and Yong-Gi Kim. "Ontology-assisted automatic precise information extractor for visually impaired inhabitants." Artificial Intelligence Review 38, no. 1 (2012): 9-24. <a href="https://drive.google.com/file/d/1F9dzSvsK4iQG5ayQR7_rikn9kv3BltAr/view?usp=sharing"><u>Paper</u></a>
+
+**Bukhari, Ahmad C.**, Mehtab Afzal, and Yong-Gi Kim. "Personalized Information Seeking Powered by Mobile Ontology for Sightless Residents of under Developing States." International Journal of Computer and Communication Engineering 2, no. 2 (2013): 120. <a href="http://www.ijcce.org/papers/152-B10039.pdf"><u>Paper</u></a>
+
+**2011**
+
+**Bukhari, Ahmad C.**, Abid Ali Fareedi, and Yong Gi Kim. "HO 2 IEV: Heavyweight ontology based web information extraction technique for visionless users." In Networked Computing and Advanced Information Management (NCM), 2011 7th International Conference on, pp. 90-95. IEEE, 2011. <a href="https://drive.google.com/file/d/1nB9X6XTaWidl9yIlFlsP7vi9Dc4Bqzk_/view?usp=sharing"><u>Paper</u></a>
+
+**Bukhari, Ahmad C.**, and Yong-Gi Kim. "Incorporation of fuzzy theory with heavyweight ontology and its application on vague information retrieval for decision making." International Journal of Fuzzy Logic and Intelligent Systems 11, no. 3 (2011): 171-177. <a href="https://drive.google.com/file/d/14mgofx5hjlJE-GcQyjfXRTgVyIuly0Nt/view?usp=sharing"><u>Paper</u></a>
+
+**Bukhari, Ahmad C.**, and Yong-Gi Kim. "Exploiting the heavyweight ontology with multi-agent system using vocal command system: a case study on e-mall." International Journal of Advancements in Computing Technology 3, no. 6 (2011): 233-241. <a href="https://www.researchgate.net/profile/Syed_Ahmad_Chan_Bukhari/publication/236133107_Exploiting_the_Heavyweight_Ontology_with_Multi-Agent_System_Using_Vocal_Command_System_A_Case_Study_on_E-Mall/links/0046352a29054b151a000000.pdf"><u>Paper</u></a>
+
+Abid Ali, and **Syed Ahmad Chan Bukhari**. "Ontology Learning: Information Logistic" LAP LAMBERT Academic Publishing (February 14, 2011) <a href="https://www.amazon.com/Ontology-Learning-Information-Abid-Ali/dp/3844302638/ref=sr_1_fkmr0_1?ie=UTF8&qid=1526050998&sr=8-1-fkmr0&keywords=Ontology+Learning%3A+Information+Logistic+Authors+Abid+Ali+Syed+Ahmad+Chan+Bukhari"><u>Book</u></a>
 
