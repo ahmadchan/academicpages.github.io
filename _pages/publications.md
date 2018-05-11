@@ -13,7 +13,7 @@ author_profile: true
 
 **2017**
 
-Rubelt, Florian, Christian E. Busse, **Syed Ahmad Chan Bukhari** (Co-First), Jean-Philippe Bürckert, Encarnita Mariotti-Ferrandiz, Lindsay G. Cowell, Corey T. Watson et al. "Adaptive Immune Receptor Repertoire Community recommendations for sharing immune-repertoire sequencing data." Nature immunology 18, no. 12 (2017): 1274. [Paper](http://lasersonlab.org/pdfs/2017-NatureImmunol-Rubelt.pdf)
+Rubelt, Florian, Christian E. Busse, **Syed Ahmad Chan Bukhari** (Co-First), Jean-Philippe Bürckert, Encarnita Mariotti-Ferrandiz, Lindsay G. Cowell, Corey T. Watson et al. "Adaptive Immune Receptor Repertoire Community recommendations for sharing immune-repertoire sequencing data." Nature immunology 18, no. 12 (2017): 1274. <a href="http://lasersonlab.org/pdfs/2017-NatureImmunol-Rubelt.pdf">Paper</a>
 
 Breden, Felix, Eline T. Luning Prak, Bjoern Peters, Florian Rubelt, Chaim A. Schramm, Christian E. Busse, Jason A. Vander Heiden,**Syed Ahmad Chan Bukhari** et al. "reproducibility and reuse of Adaptive immune receptor repertoire Data." Frontiers in immunology 8 (2017). [Paper]()
 
