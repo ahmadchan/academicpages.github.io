@@ -36,6 +36,12 @@ Mark A. Musen, **Syed Ahmad Chan Bukhari**, John Campbell, Kei-Hoi Cheung, Miche
 
 **2015**
 
+Musen, Mark A., Carol A. Bean, Kei-Hoi Cheung, Michel Dumontier, Kim A. Durante, Olivier Gevaert, Alejandra Gonzalez-Beltran, Part of CEDAR Team (**Syed Ahmad Chan Bukhari**). "The center for expanded data annotation and retrieval." Journal of the American Medical Informatics Association 22, no. 6 (2015): 1148-1152. <a href="https://academic.oup.com/jamia/article/22/6/1148/2357598"><u>Paper</u></a>
+
+**Bukhari, Ahmad C.**, Mate Levente Nagy, Michael Krauthammer, Paolo Ciccarese, and Christopher JO Baker. "BIM: an open ontology for the annotation of biomedical images." In ICBO. 2015. <a href="https://pdfs.semanticscholar.org/427b/0d7ca4ba3d8c2530530e73d005e6ce01601a.pdf"><u>Paper</u></a>
+
+**Bukhari, Syed Ahmad Chan**, Mate Levente Nagy, Paolo Ciccarese, Michael Krauthammer, and Christopher JO Baker. "iCyrus: A Semantic Framework for Biomedical Image Discovery." In SWAT4LS, pp. 13-22. 2015. <a href="https://pdfs.semanticscholar.org/34f5/6d2d1bdcd7bbf987c95a9e847d7ddee2df88.pdf"><u>Paper</u></a>
+
 **2014**
 
 **2013**
