@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "CEDAR Projects"
+excerpt: "The Center for Expanded Data Annotation and Retrieval (CEDAR), one of the Centers of Excellence supported through the NIH Big Data to Knowledge (BD2K) program, to meet the challenge of harvesting the wealth of information contained in biomedical Big Data. CEDAR’s overall mission is to develop technologies to address Big Data impediments, including lack of appropriate tools, poor data accessibility, and insufficient training. Details can be found at the CEDAR website http://metadatacenter.org"
 collection: portfolio
 ---
 
