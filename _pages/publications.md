@@ -11,7 +11,7 @@ author_profile: true
 
 **2018**
 
-Mark A. Musen, John Graybeal, Martin J. O'Connor, Marcos Martínez-Romero, Attila L. Egyedi, Debra Willrett, **Syed Ahmad Chan Bukhari**, Steven H. Kleinstein, Kei-Hoi Cheung, Elizabeth Thomson, Alejandra Gonzalez-Beltran, Phillipe Rocca-Serra, and Susanna-Assunta Sansone, "CEDAR: Web-Based Tools for Accelerating the Creation of Standardized Metadata", Research Data Alliance Plenary Meeting in Berlin, Germany March 21-23, 2018. a href="https://metadatacenter.org/sites/default/files/artifact/RDA%20BMIR%20CEDAR%20Poster.pdf"><u>Poster</u></a>
+Mark A. Musen, John Graybeal, Martin J. O'Connor, Marcos Martínez-Romero, Attila L. Egyedi, Debra Willrett, **Syed Ahmad Chan Bukhari**, Steven H. Kleinstein, Kei-Hoi Cheung, Elizabeth Thomson, Alejandra Gonzalez-Beltran, Phillipe Rocca-Serra, and Susanna-Assunta Sansone, "CEDAR: Web-Based Tools for Accelerating the Creation of Standardized Metadata", Research Data Alliance Plenary Meeting in Berlin, Germany March 21-23, 2018. <a href="https://metadatacenter.org/sites/default/files/artifact/RDA%20BMIR%20CEDAR%20Poster.pdf"><u>Poster</u></a>
 
 **2017**
 
