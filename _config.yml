@@ -84,8 +84,8 @@ author:
   location         : "Yale University, New Haven"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=JhWJ5PEAAAAJ&hl=en"
-  email            :
-  uri              :
+  email            : "ahmad.chan@yale.edu"
+  uri              : "http://ahmadchan.com"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -203,15 +203,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
