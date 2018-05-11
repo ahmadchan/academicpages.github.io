@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-  You can also find my articles on <a href="https://scholar.google.com/citations?hl=en&user=JhWJ5PEAAAAJ"><b><u>my Google Scholar profile</u><b></a>.
+  You can also find my articles on <a href="https://scholar.google.com/citations?hl=en&user=JhWJ5PEAAAAJ"><b><u>my Google Scholar profile</u></b></a>.
 
 
 **2018**
