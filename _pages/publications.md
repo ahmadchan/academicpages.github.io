@@ -11,6 +11,7 @@ author_profile: true
 **2019**
 
 Iqbal Qasim, Mahmood Alam, Shumaila Khan, Adul Wahid Khan, Khalid Mahmood Malik, **Syed Ahmad Chan Bukhari** “A Comprehensive Review of the Type-2 Fuzzy Ontology”, Artificial Intelligence Review, <a href="https://link.springer.com/article/10.1007/s10462-019-09693-9" target="_blank"><u>Paper</u></a>
+
 Muhammad Saleem, Gábor Szárnyas, Felix Conrads, **Syed Ahmad Chan Bukhari**, Qaiser Mehmood, and Axel-Cyrille Ngonga Ngomo. “How Representative is a SPARQL Benchmark? An Analysis of RDF Triplestore Benchmarks”. The WebConf 2019 (WWW 2019) <a href="https://www.researchgate.net/publication/330533017_How_Representative_is_a_SPARQL_Benchmark_An_Analysis_of_RDF_Triplestore_Benchmarks" target="_blank"><u>Paper</u></a>
 
 **2018**
