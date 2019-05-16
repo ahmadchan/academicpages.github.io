@@ -10,6 +10,11 @@ author_profile: true
 
 **2019**
 
+Overton, J. A., Vita, R., Dunn, P., Burel, J. G., **Bukhari, S. A. C.**, Cheung, K. H., ... & Peters, B. (2019). Reporting and connecting cell type names and gating definitions through ontologies. BMC Bioinformatics, 20(5), 259.<a href="https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2725-5" target="_blank"><u>Paper</u></a>
+
+L. Ali and **Bukhari, Syed Ahmad Chan** et al., "An Optimized Stacked Support Vector Machines Based Expert System for the Effective Prediction of Heart Failure," in IEEE Access, vol. 7, pp. 54007-54014, 2019.
+doi: 10.1109/ACCESS.2019.2909969 <a href="https://ieeexplore.ieee.org/document/8684835" target="_blank"><u>Paper</u></a>
+
 Iqbal Qasim, Mahmood Alam, Shumaila Khan, Adul Wahid Khan, Khalid Mahmood Malik, **Syed Ahmad Chan Bukhari** “A Comprehensive Review of the Type-2 Fuzzy Ontology”, Artificial Intelligence Review, <a href="https://link.springer.com/article/10.1007/s10462-019-09693-9" target="_blank"><u>Paper</u></a>
 
 Muhammad Saleem, Gábor Szárnyas, Felix Conrads, **Syed Ahmad Chan Bukhari**, Qaiser Mehmood, and Axel-Cyrille Ngonga Ngomo. “How Representative is a SPARQL Benchmark? An Analysis of RDF Triplestore Benchmarks”. The WebConf 2019 (WWW 2019) <a href="https://www.researchgate.net/publication/330533017_How_Representative_is_a_SPARQL_Benchmark_An_Analysis_of_RDF_Triplestore_Benchmarks" target="_blank"><u>Paper</u></a>
