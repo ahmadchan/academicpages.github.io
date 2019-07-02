@@ -13,4 +13,4 @@ With the advancement of high-throughput technologies, data in life sciences and 
 
 **Keywords defining my research work** 
 
-Semantic Web, Data Science, Biomedical and Health Informatics, Machine Learning, Big Data, Natural Language Processing, Knowledge Engineering, FAIR Data
+Biomedical and Health Informatics, Semantic Web, Data Science, Machine Learning, Big Data, Natural Language Processing, Knowledge Engineering, FAIR Data
